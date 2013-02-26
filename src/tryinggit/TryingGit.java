@@ -11,7 +11,7 @@ package tryinggit;
 public class TryingGit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World!");  //The first Github project?
         Thread thread;
     }
 }
