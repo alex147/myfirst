@@ -12,4 +12,5 @@ public class NewClass {
     private boolean bool;
     private int number;
     private double newDouble;
+    private float newFloat;
 }
