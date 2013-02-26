@@ -10,4 +10,5 @@ package tryinggit;
  */
 public class NewClass {
     private boolean bool;
+    private int number;
 }
