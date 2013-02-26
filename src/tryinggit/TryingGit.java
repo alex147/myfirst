@@ -14,5 +14,6 @@ public class TryingGit {
         System.out.println("Hello World!");
         Thread thread;
         Thread thread2;
+        System.out.println("Shite");
     }
 }
